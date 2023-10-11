@@ -8,4 +8,4 @@
 
 ## Problem 1
 
-Repeat the GW170817 standard siren + EM counterpart measurement to constrain the Hubble constant.
+Hierarchical Bayesian inference example: infer binary black hole component spin distributions.
